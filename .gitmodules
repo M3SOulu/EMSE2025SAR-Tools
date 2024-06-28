@@ -1,0 +1,39 @@
+[submodule "attack-graph-generator"]
+	path = attack-graph-generator
+	url = https://github.com/M3SOulu/attack-graph-generator.git
+[submodule "authz-flow-analysis"]
+	path = authz-flow-analysis
+	url = https://github.com/M3SOulu/authz-flow-analysis.git
+[submodule "code2DFD"]
+	path = code2DFD
+	url = https://github.com/M3SOulu/code2DFD.git
+[submodule "CodeCompass"]
+	path = CodeCompass
+	url = https://github.com/M3SOulu/CodeCompass.git
+[submodule "MicroDepGraph"]
+	path = MicroDepGraph
+	url = https://github.com/M3SOulu/MicroDepGraph.git
+[submodule "Micrograaal"]
+	path = Micrograaal
+	url = https://github.com/M3SOulu/Micrograaal.git
+[submodule "microMiner"]
+	path = microMiner
+	url = https://github.com/M3SOulu/microMiner.git
+[submodule "prophet-utils-app"]
+	path = prophet-utils-app
+	url = https://github.com/M3SOulu/prophet-utils-app.git
+[submodule "prophet2"]
+	path = prophet2
+	url = https://github.com/M3SOulu/prophet2.git
+[submodule "microTOM"]
+	path = microTOM
+	url = https://github.com/M3SOulu/microTOM.git
+[submodule "protoc-gen-scip"]
+	path = protoc-gen-scip
+	url = https://github.com/M3SOulu/protoc-gen-scip.git
+[submodule "rad"]
+	path = rad
+	url = https://github.com/M3SOulu/rad.git
+[submodule "rad-source"]
+	path = rad-source
+	url = https://github.com/M3SOulu/rad-source.git
