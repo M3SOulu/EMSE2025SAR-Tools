@@ -40,3 +40,6 @@
 [submodule "EMSE2025SAR-source-code-parser"]
 	path = EMSE2025SAR-source-code-parser
 	url = https://github.com/M3SOulu/EMSE2025SAR-source-code-parser
+[submodule "EMSE2025SAR-prophet-utils"]
+	path = EMSE2025SAR-prophet-utils
+	url = https://github.com/M3SOulu/EMSE2025SAR-prophet-utils
