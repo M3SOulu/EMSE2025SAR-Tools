@@ -1,7 +1,7 @@
-# Microservice benchmarks
+# Static analysis tools reconstructing Microservice architecture
 
-This repository contains references to static analysis tools
-reconstructing microservice architecture.
+This repository contains references to forks of static analysis tools
+reconstructing microservice architecture used in the EMSE paper "Comparison of Static Analysis Architecture Recovery Tools for Microservice Applications".
 
 ## Initilizing repository
 
