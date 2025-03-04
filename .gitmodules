@@ -1,39 +1,39 @@
-[submodule "attack-graph-generator"]
-	path = attack-graph-generator
-	url = https://github.com/M3SOulu/attack-graph-generator.git
-[submodule "authz-flow-analysis"]
-	path = authz-flow-analysis
-	url = https://github.com/M3SOulu/authz-flow-analysis.git
-[submodule "code2DFD"]
-	path = code2DFD
-	url = https://github.com/M3SOulu/code2DFD.git
-[submodule "CodeCompass"]
-	path = CodeCompass
-	url = https://github.com/M3SOulu/CodeCompass.git
-[submodule "MicroDepGraph"]
-	path = MicroDepGraph
-	url = https://github.com/M3SOulu/MicroDepGraph.git
-[submodule "Micrograaal"]
-	path = Micrograaal
-	url = https://github.com/M3SOulu/Micrograaal.git
-[submodule "microMiner"]
-	path = microMiner
-	url = https://github.com/M3SOulu/microMiner.git
-[submodule "prophet-utils-app"]
-	path = prophet-utils-app
-	url = https://github.com/M3SOulu/prophet-utils-app.git
-[submodule "prophet2"]
-	path = prophet2
-	url = https://github.com/M3SOulu/prophet2.git
-[submodule "microTOM"]
-	path = microTOM
-	url = https://github.com/M3SOulu/microTOM.git
-[submodule "protoc-gen-scip"]
-	path = protoc-gen-scip
-	url = https://github.com/M3SOulu/protoc-gen-scip.git
-[submodule "rad"]
-	path = rad
-	url = https://github.com/M3SOulu/rad.git
-[submodule "rad-source"]
-	path = rad-source
-	url = https://github.com/M3SOulu/rad-source.git
+[submodule "EMSE2025SAR-attack-graph-generator"]
+	path = EMSE2025SAR-attack-graph-generator
+	url = https://github.com/M3SOulu/EMSE2025SAR-attack-graph-generator
+[submodule "EMSE2025SAR-authz-flow-analysis"]
+	path = EMSE2025SAR-authz-flow-analysis
+	url = https://github.com/M3SOulu/EMSE2025SAR-authz-flow-analysis
+[submodule "EMSE2025SAR-code2DFD"]
+	path = EMSE2025SAR-code2DFD
+	url = https://github.com/M3SOulu/EMSE2025SAR-code2DFD
+[submodule "EMSE2025SAR-CodeCompass"]
+	path = EMSE2025SAR-CodeCompass
+	url = https://github.com/M3SOulu/EMSE2025SAR-CodeCompass
+[submodule "EMSE2025SAR-MicroDepGraph"]
+	path = EMSE2025SAR-MicroDepGraph
+	url = https://github.com/M3SOulu/EMSE2025SAR-MicroDepGraph
+[submodule "EMSE2025SAR-Micrograal"]
+	path = EMSE2025SAR-Micrograal
+	url = https://github.com/M3SOulu/EMSE2025SAR-Micrograal
+[submodule "EMSE2025SAR-microMiner"]
+	path = EMSE2025SAR-microMiner
+	url = https://github.com/M3SOulu/EMSE2025SAR-microMiner
+[submodule "EMSE2025SAR-microTOM"]
+	path = EMSE2025SAR-microTOM
+	url = https://github.com/M3SOulu/EMSE2025SAR-microTOM
+[submodule "EMSE2025SAR-prophet"]
+	path = EMSE2025SAR-prophet
+	url = https://github.com/M3SOulu/EMSE2025SAR-prophet
+[submodule "EMSE2025SAR-prophet2"]
+	path = EMSE2025SAR-prophet2
+	url = https://github.com/M3SOulu/EMSE2025SAR-prophet2
+[submodule "EMSE2025SAR-protoc-gen-scip"]
+	path = EMSE2025SAR-protoc-gen-scip
+	url = https://github.com/M3SOulu/EMSE2025SAR-protoc-gen-scip
+[submodule "EMSE2025SAR-rad"]
+	path = EMSE2025SAR-rad
+	url = https://github.com/M3SOulu/EMSE2025SAR-rad
+[submodule "EMSE2025SAR-rad-source"]
+	path = EMSE2025SAR-rad-source
+	url = https://github.com/M3SOulu/EMSE2025SAR-rad-source
