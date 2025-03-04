@@ -37,3 +37,6 @@
 [submodule "EMSE2025SAR-rad-source"]
 	path = EMSE2025SAR-rad-source
 	url = https://github.com/M3SOulu/EMSE2025SAR-rad-source
+[submodule "EMSE2025SAR-source-code-parser"]
+	path = EMSE2025SAR-source-code-parser
+	url = https://github.com/M3SOulu/EMSE2025SAR-source-code-parser
